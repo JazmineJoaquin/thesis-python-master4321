@@ -1,4 +1,4 @@
 Flash
 Socket
 Gunicorn
- -m pip install --upgrade pip
+ 
