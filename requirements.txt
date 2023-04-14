@@ -1,7 +1,0 @@
-Flash
-Socket
-Gunicorn
-
--pip install jellyfish
--pip instal nltk
--pip install
